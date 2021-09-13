@@ -21,12 +21,11 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(top.png);
   background-size: cover;
-  color: white;
+  color: rgba(34,49,52,0.9);
   text-align: center;
 }
 
 .top-wrapper h1 {
-  color: #333;
   opacity: 0.7;
   font-size: 45px;
   letter-spacing: 5px;
